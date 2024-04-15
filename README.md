@@ -1,12 +1,16 @@
 # CourseScheduler
 **A Course Scheduling application for a College**
 
-The application will enable two types of Users to perform their necessary functions to schedule courses by semester. The Admin User will perform multiple functions to set up the database so that Students my schedule courses. The functions each User will be able to perform will be described below.
+The application will enable two types of Users to perform their necessary functions to schedule courses by semester. The Admin User will perform multiple functions to set up the database so that Students may schedule courses. 
 
 This application has a GUI interface and is a database driven application. 
+
 The database used is Apache Derby. 
-This application and the database uses good Object-Oriented Design and Programming. 
+
+This application and the database uses good Object-Oriented Design and Programming. 
+
 The database access is in the classes that correlate with the database tables.
+
 All of the updates to the database are done using SQL statements.
 
 This project implements the following Admin functions:
