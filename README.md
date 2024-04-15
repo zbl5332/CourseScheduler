@@ -3,17 +3,17 @@
 
 The application will enable two types of Users to perform their necessary functions to schedule courses by semester. The Admin User will perform multiple functions to set up the database so that Students may schedule courses. 
 
-This application has a GUI interface and is a database driven application. 
+* This application has a GUI interface and is a database driven application. 
 
-The database used is Apache Derby. 
+* The database used is Apache Derby. 
 
-This application and the database uses good Object-Oriented Design and Programming. 
+* This application and the database uses good Object-Oriented Design and Programming. 
 
-The database access is in the classes that correlate with the database tables.
+* The database access is in the classes that correlate with the database tables.
 
-All of the updates to the database are done using SQL statements.
+* All of the updates to the database are done using SQL statements.
 
-This project implements the following Admin functions:
+**This project implements the following Admin functions:**
 
 **Add Semester**
 * A semester is added to the database. The semester is identified by one name.
@@ -47,7 +47,7 @@ are made because of dropping the student.
 scheduled and waitlisted for the class from the Schedule Table. Display all of the 
 changes that are made because of dropping the class.
 
-The project also implements the following Student functions:
+**The project also implements the following Student functions:**
 
 **Schedule Class**
 * The student will be scheduled in the class for the specified semester if there are 
